@@ -1,0 +1,18 @@
+body {
+
+}
+
+header {
+    height: 100px;
+}
+
+footer {
+    height: 100px;
+}
+
+.links {
+    float: left;
+}
+.content {
+    margin-left: 100px;
+}
